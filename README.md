@@ -29,7 +29,7 @@ A Django-based web application for creating, managing and tracking events.
 - Dashboard for an overview of events – `dashboard` app
 - Media uploads (event images and files) stored in `media/uploads`
 - Email sending through SMTP
-- Production-ready setup: static files collection, Docker, Procfile and Railway configuration
+- Production-ready setup: Railway
 
 ## Project Structure
 
