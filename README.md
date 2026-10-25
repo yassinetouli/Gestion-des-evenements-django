@@ -58,7 +58,7 @@ Gestion-des-evenements-django/
 
 | Layer          | Technology                                   |
 | -------------- | -------------------------------------------- |
-| Frontend         HTML, CSS(Tailwind)                          |
+| Frontend       | HTML, CSS(Tailwind)                          |
 | Backend        | Python, Django                               |
 | Database       | PostgreSQL (production on Railway)           |
 | Deployment     | Railway (demo)                               |
